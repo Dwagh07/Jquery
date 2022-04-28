@@ -1,0 +1,32 @@
+[
+    {
+        "firstName":"Dipesh",
+        "lastName":"Wagh",
+        "email":"dwagh@gmail.com"
+        
+    },
+    {
+        "firstName":"Surya",
+        "lastName":"Thombre",
+        "email":"surya@gmail.com"
+        
+    },
+    {
+        "firstName":"Manoj",
+        "lastName":"Reddy",
+        "email":"Reddy@gmail.com"
+        
+    },
+    {
+        "firstName":"Prem",
+        "lastName":"Waikar",
+        "email":"Waikar@gmail.com"
+        
+    },
+    {
+        "firstName":"Zohair",
+        "lastName":"Irani",
+        "email":"Zohair@gmail.com"
+        
+    }
+]
